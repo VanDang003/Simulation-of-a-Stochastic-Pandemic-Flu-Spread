@@ -23,11 +23,11 @@ Consider a classroom of 31 elementary school kids. 30 of the kids are healthy (a
 | matplotlib   | Plotting and visualization           |
 | scipy        | Scientific computing and statistics  |
 
-```Python
+```python
 # Install required packages if not already installed
 pip install numpy matplotlib scipy
 ```
 
 ## Getting Started
 1.  **Set up Python Environment & Install Dependencies:** (See **Packages Required** section above).
-2.  **Download "Pandemic_Sim.py" and place in root folder.
+2.  **Download `"Pandemic_Sim.py"` and place it in the root folder.**
